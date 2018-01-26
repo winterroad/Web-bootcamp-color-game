@@ -1,24 +1,36 @@
 
 body {
+  margin: 0;
   background-color: #232323;
+  font-style: "Montserrat", "Avenir";
 }
 
  .square {
    width: 30%;
-   background: purple;
    padding-bottom: 30%;
    margin: 1.66%;
    float: left;
  }
 
  #container{
-   margin: 0 auto;
+   margin: 2rem auto;
    max-width: 600px;
  }
 
 h1{
+  margin: 0;
+  text-align: center;
+  line-height: 1.1;
   color: #fff;
+  background-color: #4682b4;
+  font-weight: normal;
+  text-transform: uppercase;
 }
+
+  #colorDisplay {
+    font-size: 200%;
+    display: block;
+  }
 
 #stripe{
   background: #fff;
