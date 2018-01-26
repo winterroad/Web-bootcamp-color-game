@@ -10,17 +10,19 @@ body {
    padding-bottom: 30%;
    margin: 1.66%;
    float: left;
+   border-radius: 2rem;
  }
 
  #container{
    margin: 2rem auto;
-   max-width: 600px;
+   max-width: 700px;
  }
 
 h1{
   margin: 0;
+  padding: 1.5rem 0;
   text-align: center;
-  line-height: 1.1;
+  line-height: 1.25;
   color: #fff;
   background-color: #4682b4;
   font-weight: normal;
@@ -28,7 +30,7 @@ h1{
 }
 
   #colorDisplay {
-    font-size: 200%;
+    font-size: 4rem;
     display: block;
   }
 
