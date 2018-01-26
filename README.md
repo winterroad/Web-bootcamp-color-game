@@ -1,2 +1,2 @@
-# Web-bootcamp-color-game
-Objective is to make rgb color guessing game.
+# -Web-Bootcamp---Color-Game
+Purpose is to make a game in which you guess which square is given rgb color.
